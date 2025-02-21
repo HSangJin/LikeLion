@@ -1,0 +1,7 @@
+D:\likelion_project\git\LikeLion\Loading\Loading\bin\Debug\Loading.exe.config
+D:\likelion_project\git\LikeLion\Loading\Loading\bin\Debug\Loading.exe
+D:\likelion_project\git\LikeLion\Loading\Loading\bin\Debug\Loading.pdb
+D:\likelion_project\git\LikeLion\Loading\Loading\obj\Debug\Loading.csproj.AssemblyReference.cache
+D:\likelion_project\git\LikeLion\Loading\Loading\obj\Debug\Loading.csproj.CoreCompileInputs.cache
+D:\likelion_project\git\LikeLion\Loading\Loading\obj\Debug\Loading.exe
+D:\likelion_project\git\LikeLion\Loading\Loading\obj\Debug\Loading.pdb
