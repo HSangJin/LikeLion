@@ -1,0 +1,7 @@
+D:\likelion_project\git\LikeLion\ConLearnPos\ConLearnPos\bin\Debug\ConLearnPos.exe.config
+D:\likelion_project\git\LikeLion\ConLearnPos\ConLearnPos\bin\Debug\ConLearnPos.exe
+D:\likelion_project\git\LikeLion\ConLearnPos\ConLearnPos\bin\Debug\ConLearnPos.pdb
+D:\likelion_project\git\LikeLion\ConLearnPos\ConLearnPos\obj\Debug\ConLearnPos.csproj.AssemblyReference.cache
+D:\likelion_project\git\LikeLion\ConLearnPos\ConLearnPos\obj\Debug\ConLearnPos.csproj.CoreCompileInputs.cache
+D:\likelion_project\git\LikeLion\ConLearnPos\ConLearnPos\obj\Debug\ConLearnPos.exe
+D:\likelion_project\git\LikeLion\ConLearnPos\ConLearnPos\obj\Debug\ConLearnPos.pdb

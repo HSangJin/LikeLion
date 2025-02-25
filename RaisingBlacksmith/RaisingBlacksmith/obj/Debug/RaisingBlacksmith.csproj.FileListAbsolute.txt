@@ -1,0 +1,7 @@
+D:\likelion_project\git\LikeLion\RaisingBlacksmith\RaisingBlacksmith\bin\Debug\RaisingBlacksmith.exe.config
+D:\likelion_project\git\LikeLion\RaisingBlacksmith\RaisingBlacksmith\bin\Debug\RaisingBlacksmith.exe
+D:\likelion_project\git\LikeLion\RaisingBlacksmith\RaisingBlacksmith\bin\Debug\RaisingBlacksmith.pdb
+D:\likelion_project\git\LikeLion\RaisingBlacksmith\RaisingBlacksmith\obj\Debug\RaisingBlacksmith.csproj.AssemblyReference.cache
+D:\likelion_project\git\LikeLion\RaisingBlacksmith\RaisingBlacksmith\obj\Debug\RaisingBlacksmith.csproj.CoreCompileInputs.cache
+D:\likelion_project\git\LikeLion\RaisingBlacksmith\RaisingBlacksmith\obj\Debug\RaisingBlacksmith.exe
+D:\likelion_project\git\LikeLion\RaisingBlacksmith\RaisingBlacksmith\obj\Debug\RaisingBlacksmith.pdb

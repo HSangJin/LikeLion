@@ -1,0 +1,7 @@
+D:\likelion_project\git\LikeLion\TodayTask3\TodayTask3\bin\Debug\TodayTask3.exe.config
+D:\likelion_project\git\LikeLion\TodayTask3\TodayTask3\bin\Debug\TodayTask3.exe
+D:\likelion_project\git\LikeLion\TodayTask3\TodayTask3\bin\Debug\TodayTask3.pdb
+D:\likelion_project\git\LikeLion\TodayTask3\TodayTask3\obj\Debug\TodayTask3.csproj.AssemblyReference.cache
+D:\likelion_project\git\LikeLion\TodayTask3\TodayTask3\obj\Debug\TodayTask3.csproj.CoreCompileInputs.cache
+D:\likelion_project\git\LikeLion\TodayTask3\TodayTask3\obj\Debug\TodayTask3.exe
+D:\likelion_project\git\LikeLion\TodayTask3\TodayTask3\obj\Debug\TodayTask3.pdb
