@@ -1,0 +1,7 @@
+D:\likelion_project\git\LikeLion\study17\study17\bin\Debug\study17.exe.config
+D:\likelion_project\git\LikeLion\study17\study17\bin\Debug\study17.exe
+D:\likelion_project\git\LikeLion\study17\study17\bin\Debug\study17.pdb
+D:\likelion_project\git\LikeLion\study17\study17\obj\Debug\study17.csproj.AssemblyReference.cache
+D:\likelion_project\git\LikeLion\study17\study17\obj\Debug\study17.csproj.CoreCompileInputs.cache
+D:\likelion_project\git\LikeLion\study17\study17\obj\Debug\study17.exe
+D:\likelion_project\git\LikeLion\study17\study17\obj\Debug\study17.pdb
