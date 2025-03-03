@@ -1,0 +1,7 @@
+D:\likelion_project\git\LikeLion\ReadChar_EX\ReadChar_EX\bin\Debug\ReadChar_EX.exe.config
+D:\likelion_project\git\LikeLion\ReadChar_EX\ReadChar_EX\bin\Debug\ReadChar_EX.exe
+D:\likelion_project\git\LikeLion\ReadChar_EX\ReadChar_EX\bin\Debug\ReadChar_EX.pdb
+D:\likelion_project\git\LikeLion\ReadChar_EX\ReadChar_EX\obj\Debug\ReadChar_EX.csproj.AssemblyReference.cache
+D:\likelion_project\git\LikeLion\ReadChar_EX\ReadChar_EX\obj\Debug\ReadChar_EX.csproj.CoreCompileInputs.cache
+D:\likelion_project\git\LikeLion\ReadChar_EX\ReadChar_EX\obj\Debug\ReadChar_EX.exe
+D:\likelion_project\git\LikeLion\ReadChar_EX\ReadChar_EX\obj\Debug\ReadChar_EX.pdb

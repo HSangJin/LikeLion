@@ -1,0 +1,7 @@
+D:\likelion_project\git\LikeLion\DinosaurJump\DinosaurJump\bin\Debug\DinosaurJump.exe.config
+D:\likelion_project\git\LikeLion\DinosaurJump\DinosaurJump\bin\Debug\DinosaurJump.exe
+D:\likelion_project\git\LikeLion\DinosaurJump\DinosaurJump\bin\Debug\DinosaurJump.pdb
+D:\likelion_project\git\LikeLion\DinosaurJump\DinosaurJump\obj\Debug\DinosaurJump.csproj.AssemblyReference.cache
+D:\likelion_project\git\LikeLion\DinosaurJump\DinosaurJump\obj\Debug\DinosaurJump.csproj.CoreCompileInputs.cache
+D:\likelion_project\git\LikeLion\DinosaurJump\DinosaurJump\obj\Debug\DinosaurJump.exe
+D:\likelion_project\git\LikeLion\DinosaurJump\DinosaurJump\obj\Debug\DinosaurJump.pdb
