@@ -1,0 +1,7 @@
+D:\likelion_project\git\LikeLion\TextRPG_Test\TextRPG_Test\bin\Debug\TextRPG_Test.exe.config
+D:\likelion_project\git\LikeLion\TextRPG_Test\TextRPG_Test\bin\Debug\TextRPG_Test.exe
+D:\likelion_project\git\LikeLion\TextRPG_Test\TextRPG_Test\bin\Debug\TextRPG_Test.pdb
+D:\likelion_project\git\LikeLion\TextRPG_Test\TextRPG_Test\obj\Debug\TextRPG_Test.csproj.AssemblyReference.cache
+D:\likelion_project\git\LikeLion\TextRPG_Test\TextRPG_Test\obj\Debug\TextRPG_Test.csproj.CoreCompileInputs.cache
+D:\likelion_project\git\LikeLion\TextRPG_Test\TextRPG_Test\obj\Debug\TextRPG_Test.exe
+D:\likelion_project\git\LikeLion\TextRPG_Test\TextRPG_Test\obj\Debug\TextRPG_Test.pdb

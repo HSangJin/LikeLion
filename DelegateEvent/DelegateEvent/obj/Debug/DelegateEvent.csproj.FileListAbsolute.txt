@@ -1,0 +1,7 @@
+D:\likelion_project\git\LikeLion\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.exe.config
+D:\likelion_project\git\LikeLion\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.exe
+D:\likelion_project\git\LikeLion\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.pdb
+D:\likelion_project\git\LikeLion\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.csproj.AssemblyReference.cache
+D:\likelion_project\git\LikeLion\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.csproj.CoreCompileInputs.cache
+D:\likelion_project\git\LikeLion\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.exe
+D:\likelion_project\git\LikeLion\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.pdb
